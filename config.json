@@ -1,6 +1,6 @@
 {
   concurrentDownloads: 0,
-  outputDirectory: "/run/media/rigo/RIGO_500/repo2/",
+  outputDirectory: "/run/media/repo/",
   arch: "all",
   repositories: [
     "http://suse.uci.cu/updates",
