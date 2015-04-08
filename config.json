@@ -1,0 +1,18 @@
+{
+  concurrentDownloads: 0,
+  outputDirectory: "/run/media/rigo/RIGO_500/repo2/",
+  arch: "all",
+  repositories: [
+    "http://suse.uci.cu/updates",
+    "http://suse.uci.cu/repo/oss/",
+    "http://suse.uci.cu/repo/non-oss/",
+    "http://suse.uci.cu/packman/Essentials/",
+    "http://suse.uci.cu/packman/Multimedia/",
+    "http://suse.uci.cu/packman/Games/",
+    "http://suse.uci.cu/packman/Extra/"
+  ],
+  proxyHost: "",
+  proxyPort: "",
+  proxyUser: "",
+  proxyPasswd: ""
+}
